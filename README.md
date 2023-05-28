@@ -25,7 +25,7 @@ The Web Source Extractor is a Python script that helps you extract HTML, CSS, an
 2. Install the required libraries:
 
    ```
-   pip install requests beautifulsoup4
+   pip install -r requirements.txt
    ```
 
 ## Usage
